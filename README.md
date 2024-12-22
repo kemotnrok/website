@@ -41,7 +41,7 @@
 - Eis
 - Kirschgrütze
 
-### Turek
+### Türke
 - Dill
 - Petersille
 - Leber
