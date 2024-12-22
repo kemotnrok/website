@@ -32,15 +32,14 @@
 - Weichkäse  
 - Krabben
 - Lachs
-- Schwarzwälder
-- Saftschinken
+- Schwarzwälder Schinken 200 g
+- Saftschinken 200 g
 - Mettwurst
-- Fleischrolladen
-- Apfelsaft naturtrüb
+- Rindsrolladen
+- Apfel-/ Birnensaft naturtrüb
 - Wein Molitor 9?
 - Eis
 - Kirschgrütze
-- 
 
 ### Turek
 - Dill
