@@ -9,34 +9,34 @@
 - alkoholfreies Bier
 
 ### Edeka
-- Dill 
-- Petersille
-- Butter 2 kostki
-- Zwiebel
-- Zitronen
-- Apfelsaft naturtrüb
-- Spinat
-- Pilze
-- Schafskäse
-- Sahne
-- Krabben
-- Kartoffeln
-- geräucherter Käse
-- Salat
-- Suppengrün
 - Äpfel
-- Radieschen
 - Birne
 - Weintrauben
+- Zitronen
+- Zwiebel
+- Spinat
+- Radieschen
+- Kartoffeln
+- Suppengrün
+- Salat
+- Pilze, große Pilze
+- Eier
+- Schafskäse
+- Sahne
+- Butter 2 kostki
+- geräucherter Käse
 - Käse 
+- Krabben
 - Schwarzwälder
 - Saftschinken
 - Mettwurst
 - Fleischrolladen
-- Eier
+- Apfelsaft naturtrüb
 
 ### Turek
 - Dill
+- Petersille
+- Leber
 
 ### Kaufland
 - evtl. Spinat
