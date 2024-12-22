@@ -12,26 +12,35 @@
 - Äpfel
 - Birne
 - Weintrauben
+- Orangen
 - Zitronen
 - Zwiebel
 - Spinat
 - Radieschen
+- Gurke
+- Tomaten
 - Kartoffeln
 - Suppengrün
 - Salat
 - Pilze, große Pilze
 - Eier
-- Schafskäse
 - Sahne
 - Butter 2 kostki
+- Schafskäse
 - geräucherter Käse
-- Käse 
+- Hartkäse
+- Weichkäse  
 - Krabben
+- Lachs
 - Schwarzwälder
 - Saftschinken
 - Mettwurst
 - Fleischrolladen
 - Apfelsaft naturtrüb
+- Wein Molitor 9?
+- Eis
+- Kirschgrütze
+- 
 
 ### Turek
 - Dill
