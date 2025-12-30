@@ -1,0 +1,1 @@
+a b c ć ċ d d́ ḋ e ę f g h i j k l ł m n ń o ǫ p r s ś ṡ t u w y z ź ż
