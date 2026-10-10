@@ -1,5 +1,0 @@
-Java – kurz & gut, 3rd Edition
-Patricia Liguori, Robert Liguori
-
-Java EE kurz & gut
-Arun Gupta
