@@ -1,0 +1,24 @@
+erDiagram
+    Vereinsmitglied only one -- zero or many Zahlung : taetigt
+    Vereinsmitglied {
+        int id
+        string Vorname 
+        string Nachname
+        %% Inaktiv darf keine Zahlungen tätigen
+        bool Aktiv 
+        byteArray Bild
+        List ZahlungListe 
+    }
+    Zahlung {
+        int Id
+        %% Darf nicht in der Vergangenheit liegen 
+        DateTime Zeitpunkt 
+        %% max 50
+        Decimal Betrag
+        string Beschreibung
+        Vereinsmitglied Vereinsmitglied
+    }
+
+
+
+

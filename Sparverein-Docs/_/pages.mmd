@@ -1,0 +1,28 @@
+classDiagram
+    LANDINGPAGE <--> STATISTICS
+    class LANDINGPAGE{
+        table<Transaction> Transactions : desc
+        td transactionType
+        td bookTitle
+        td timeStamp
+        td userName
+        td image
+        td comment
+        input searchComment
+        select transactionType
+        select user
+        button filter()
+        a Statistics()
+    }
+
+    class STATISTICS{
+        select user
+        input date from
+        input date to
+        diagram top5books
+        div countLoans
+        div countReturns
+        button filter()
+        a Home
+    }
+    

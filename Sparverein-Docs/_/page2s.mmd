@@ -1,0 +1,27 @@
+classDiagram
+    Zahlungen <--> Statistiken
+    class Zahlungen{
+        table<Zahlungen> : desc
+        td Betrag
+        td Datum 
+        td Vereinsmitglied
+        td Bild
+        td Beschreibung 
+        input suche
+        select Eingänge/Ausgänge/Alle
+        select Vereinsmitglied
+        select Letzte15/30/Anzeigen
+        button Anzeigen()
+        anker Statistiken()
+    }
+
+    class Statistiken{
+        div Summe Einzahlungen
+        div Summe Auszahlungen
+        div Kontostand
+        diagram Fünf-höchste-Einzahlungen
+        diagram Fünf-höchste-Auszahlungen
+        %% Namen der Person und der Beschreibung
+        
+    }
+    
